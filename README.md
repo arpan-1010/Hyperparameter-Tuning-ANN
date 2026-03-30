@@ -15,4 +15,4 @@ This repository implements an Artificial Neural Network (ANN) using **PyTorch** 
 ---
 
 ## 📂 Dataset
-- Dataset used: **Fashion MNIST (CSV Format)**
+- Dataset used : **Fashion MNIST (CSV Format)**
